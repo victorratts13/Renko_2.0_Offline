@@ -6,8 +6,8 @@
 //|                                                                            |
 //|                                                                            |
 //+----------------------------------------------------------------------------+
-#property copyright "Copyright 2019, Guilherme Santos."
-#property link      "fishguil@gmail.com"
+#property copyright "Copyright 2019, Victor Ratts"
+#property link      "https://github.com/victorratts13"
 #property version   "2.0"
 #property description "Renko 2.0 Offline"
 #include <RenkoCharts.mqh>
